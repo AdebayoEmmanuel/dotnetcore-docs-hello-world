@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'newreportest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B488CDF802684E778E0AC087E9D73E18 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C87CB410AA7149D1A50632AA9F2B96AD }}
           package: .
